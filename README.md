@@ -1,1 +1,1 @@
-# nginx-flsk-mysql
+# nginx-flask-mysql
